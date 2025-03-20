@@ -1,0 +1,6 @@
+Model,Features,Accuracy
+MLP,"['Age', 'Sex', 'SibSp']",0.7977957658779576
+GradientBoosting,"['Age', 'Sex', 'SibSp']",0.795101701951017
+RandomForest,"['Age', 'Sex', 'SibSp']",0.7950892486508925
+LogisticRegression,"['Age', 'Sex', 'SibSp']",0.7650228310502283
+SVM,"['Pclass', 'Age', 'Sex']",0.762283105022831
